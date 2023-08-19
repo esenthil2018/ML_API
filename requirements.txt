@@ -1,0 +1,12 @@
+# For deep learning model creation and training
+tensorflow==2.12.0
+
+# For web application framework
+streamlit==1.24.0
+
+# For image handling in the Streamlit app
+PILLOW==8.3.1
+
+# For numerical operations (used indirectly by TensorFlow and Streamlit)
+numpy==1.23.5
+
